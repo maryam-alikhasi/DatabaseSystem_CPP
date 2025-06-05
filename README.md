@@ -46,7 +46,7 @@ You will be guided through a menu to:
 
 ---
 
-## 📷 Sample Menu Interface
+## Sample Menu Interface
 
 ```
 1:Create a new table
